@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrat-v-kazino-s-zhivymi-dilerami.github.io
+Sitemap: https://igrat-v-kazino-s-zhivymi-dilerami.github.io/sitemap.xml
